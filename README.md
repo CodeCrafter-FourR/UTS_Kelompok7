@@ -94,7 +94,7 @@ UTS_Kelompok7/
 
 ---
 
-*Kalo repositori project tugas ini membantu kamu memahami arsitektur Object Database dengan lebih mudah, boleh dong kasih Star pada repositori ini!*
+*Kalo repositori project tugas ini membantu dalam memahami arsitektur Object Database dengan lebih mudah, boleh dong kasih Star pada repositori ini!*
 
 ```
 
